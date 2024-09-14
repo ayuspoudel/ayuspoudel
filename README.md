@@ -20,61 +20,37 @@ You can view and download my resume using the link below:
 
 ## My Skills 🧠
 
-<style>
-    .skills {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        margin: 20px 0;
-    }
-    .skill-box {
-        background: #fff;
-        border: 1px solid #ddd;
-        border-radius: 5px;
-        padding: 20px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        flex: 1 1 calc(33.333% - 20px);
-        box-sizing: border-box;
-        text-align: center;
-    }
-    .skill-box h3 {
-        margin-top: 0;
-        color: #333;
-    }
-    @media (max-width: 768px) {
-        .skill-box {
-            flex: 1 1 calc(50% - 20px);
-        }
-    }
-    @media (max-width: 480px) {
-        .skill-box {
-            flex: 1 1 100%;
-        }
-    }
-</style>
+### Web Development
+- React
+- Node.js
+- Express.js
+- Flask
+- REST API
+- MongoDB
+- SQL
+- HTML5
+- CSS3
 
-<div class="skills">
-    <div class="skill-box">
-        <h3>Web Development</h3>
-        <p>React, Node.js, Express.js, Flask, REST API, MongoDB, SQL, HTML5, CSS3</p>
-    </div>
-    <div class="skill-box">
-        <h3>Cloud Technologies</h3>
-        <p>AWS (EC2, S3, RDS, VPC, CloudWatch, Lambda, EKS, API Gateway)</p>
-    </div>
-    <div class="skill-box">
-        <h3>DevOps</h3>
-        <p>Docker, Jenkins, Kubernetes, ArgoCD, GitOps</p>
-    </div>
-    <div class="skill-box">
-        <h3>Programming Languages</h3>
-        <p>C++, Python, JavaScript</p>
-    </div>
-    <div class="skill-box">
-        <h3>Data Structures & Algorithms</h3>
-        <p>Stacks, Queues, Trees, OOP principles</p>
-    </div>
-</div>
+### Cloud Technologies
+- AWS (EC2, S3, RDS, VPC, CloudWatch, Lambda, EKS, API Gateway)
+
+### DevOps
+- Docker
+- Jenkins
+- Kubernetes
+- ArgoCD
+- GitOps
+
+### Programming Languages
+- C++
+- Python
+- JavaScript
+
+### Data Structures & Algorithms
+- Stacks
+- Queues
+- Trees
+- OOP principles
 
 ## Featured Projects 💻
 
@@ -82,6 +58,7 @@ You can view and download my resume using the link below:
 - **Green Rise Nepal:** A full-stack platform for volunteer engagement using the MERN stack, deployed on AWS EC2 with real-time updates.
 - **AWS Three-Tier Web Architecture:** Scalable architecture with EC2, Application Load Balancer, and CloudWatch for a React and Node.js application.
 - **CI/CD Pipeline for Java Application:** End-to-end pipeline with Maven, ArgoCD, Kubernetes, Docker, and Jenkins, enhancing build speed and deployment efficiency.
+- **Infix to Reverse Polish Notation Converter:** A C++ project implementing stacks and queues for expression conversion.
 
 ## Let's Connect! 📬
 
