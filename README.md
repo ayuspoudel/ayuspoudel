@@ -1,6 +1,6 @@
 # Ayush Poudel
 
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayuspoudel)
 
 
 **Junior Computer Science Student at the University of South Florida**
