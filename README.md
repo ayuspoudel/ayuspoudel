@@ -1,5 +1,8 @@
 # Ayush Poudel
 
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
+
 **Junior Computer Science Student at the University of South Florida**
 
 I’m currently pursuing my B.S. in Computer Science at USF with a perfect GPA and am on the lookout for summer 2025 internships. I aim to apply my skills and knowledge in real-world tech environments, gaining valuable experience in the industry.
