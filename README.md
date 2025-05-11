@@ -25,23 +25,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 
----
-
-### 📊 GitHub Stats
-<details>
-  <summary>Click to expand</summary>
-  
-  ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayuspoudel&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&theme=tokyonight)
-</details>
+]
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/workwithayush)
 
----
 
-_🛠️ Built using Shields.io, GitHub Stats, and Streak Stats_
