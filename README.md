@@ -2,12 +2,12 @@
 <p align="center">A passionate developer focused on cloud, backend, and automation 💻☁️</p>
 
 ---
+### GitHub Stats
 
-###  GitHub Streak
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ayuspoudel&theme=dark&hide_border=true" alt="ayuspoudel's GitHub streak"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayuspoudel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -119,10 +119,4 @@
 
 ---
 
-### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayuspoudel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
