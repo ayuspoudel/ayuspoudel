@@ -1,7 +1,142 @@
-<h1 align="center">Hi 👋, I'm Ayush Poudel</h1>
-<p align="center">A passionate developer focused on cloud, backend, and automation 💻☁️</p>
+<h1 align="center">Hi, I'm Ayush Poudel</h1>
+<p align="center">A passionate developer focused on backend, cloud and automation</p>
+<p align="center"> Please visit my portfolio: <a href="https://ayushpoudel.com">ayushpoudel.com</a></p>
+
+## Projects & Work
+
+### Cloud / DevOps / Infrastructure
+
+<div align="center">
+<table style="max-width:950px;width:100%;">
+<tr>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/pulumi-eks"><strong>pulumi-eks</strong></a><br/>
+A TypeSceript based Pulumi module to spin up HA EKS Cluster, bootstrap the cluster with initial addons, nginx ingress controller, argocd and gitops bridge.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/cloud-iac-monorepo"><strong>cloud-iac-monorepo</strong></a><br/>
+Reusable AWS infrastructure modules as code. This is where all of my infra as code live, for live as well as non-live infra.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/AWS-Three-Tier-Web-Architecture"><strong>aws-3tier-web-architecture</strong></a><br/>
+A terraform based project to spin up VPC, EC2 instances, RDS, S3 and IAM roles for deploying 3 tier web applications in AWS, along with manual steps.
+</div>
+</td>
+</tr>
+</table>
+</div>
 
 ---
+
+### Backend / Distributed Systems
+
+<div align="center">
+<table style="max-width:950px;width:100%;">
+<tr>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/tms"><strong>tms</strong></a><br/>
+A typescript based microservices repository, contains services like user-auth, connect-service, k8s-worker-service, lambda-controller-service all required by task management system.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/go-kafka-streamer"><strong>go-kafka-streamer</strong></a><br/>
+Go and Kafka based project to work with Kafka using Sarama and Fiber.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/go-jwt-auth-service"><strong>go-jwt-auth-service</strong></a><br/>
+Go based JWT Auth Service, which uses Gin-Gonic and golang best practices.
+</div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/aws-lambda-serverless-jira-github-sync"><strong>aws-lambda-serverless-jira-github-sync</strong></a><br/>
+Serverless automation syncing GitHub events to Jira.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/canvas-api"><strong>canvas-api</strong></a><br/>
+Syncs Canvas LMS calendar events to GitHub Projects.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<!-- intentionally kept blank to keep 3-column sizing perfect -->
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### Developer Tools & CLI
+
+<div align="center">
+<table style="max-width:950px;width:100%;">
+<tr>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/dotmanz"><strong>dotmanz</strong></a><br/>
+ZSH automation + developer environment toolkit.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/rust-gh-token-fetch"><strong>rust-gh-token-fetch</strong></a><br/>
+Rust CLI for secure GitHub App automation tokens.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<!-- blank -->
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### Frontend & Full-Stack Apps
+
+<div align="center">
+<table style="max-width:950px;width:100%;">
+<tr>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/tms-frontend"><strong>tms-frontend</strong></a><br/>
+Vue.js UI powering the TMS platform.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/portfolio"><strong>portfolio</strong></a><br/>
+React + TS portfolio deployed via AWS IaC.
+</div>
+</td>
+<td width="33%">
+<div style="background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:12px;margin:6px;">
+<a href="https://github.com/ayuspoudel/Green-Rise-Nepal-Full-Stack-Project"><strong>greenrisenepal</strong></a><br/>
+MERN app with auth + dashboards.
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
 ### GitHub Stats
 
 <p align="center">
@@ -9,113 +144,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="45%" valign="top">
-      <h3><a href="https://github.com/ayuspoudel/dotmanz">dotmanz</a></h3>
-      <p>A modular ZSH dotfiles framework + Rust CLI toolkit.</p>
-      <p><strong>Tech:</strong>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20"/>
-      </p>
-    </td>
-    <td width="45%" valign="top">
-      <h3><a href="https://github.com/ayuspoudel/cloud-iac-monorepo">cloud-iac-monorepo</a></h3>
-      <p>Centralized Infrastructure as Code repo with reusable Terraform modules.</p>
-      <p><strong>Tech:</strong>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/ayuspoudel/AWS-Three-Tier-Web-Architecture">AWS-Three-Tier-Web-Architecture</a></h3>
-      <p>Scalable 3-tier architecture with web, app, and DB on AWS.</p>
-      <p><strong>Tech:</strong>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20"/>
-      </p>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/ayuspoudel/dynatrace-hybrid-monaco">dynatrace-hybrid-monaco</a></h3>
-      <p>Terraform module to auto-create DQL dashboards in Dynatrace.</p>
-      <p><strong>Tech:</strong>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20"/>
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dynatrace.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/ayuspoudel/mongodb-cluster-aws-ecs">mongodb-cluster-aws-ecs</a></h3>
-      <p>HA MongoDB replica set deployed on AWS ECS Fargate using Terraform + Ansible.</p>
-      <p><strong>Tech:</strong>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="20"/>
-      </p>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/ayuspoudel/Green-Rise-Nepal-Full-Stack-Project">Green-Rise-Nepal</a></h3>
-      <p>Full-stack MERN app with job listings, analytics & dashboards.</p>
-      <p><strong>Tech:</strong>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
----
-
-### My Toolbox
-
-#### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)
-![Shell](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash)
-
-#### DevOps
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions)
-
-#### Web Stack
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next-black?logo=next.js)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-
----
-
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/workwithayush)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/ayuspoudel)
-[![Email](https://img.shields.io/badge/Email-ayuspoudel%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ayuspoudel@gmail.com)
-
----
 
 
+## Skills
+
+### Cloud & DevOps
+- Amazon Web Services (AWS)
+- Docker & Kubernetes (EKS)
+- IaC: Pulumi, Terraform
+- GitOps (Argo CD), CI/CD (GitHub Actions)
+- Serverless architecture (AWS Lambda, API Gateway)
+
+### Backend Engineering
+- Go (gRPC, REST, concurrency)
+- TypeScript / Node.js (Express / Fastify)
+- Event-driven systems (Apache Kafka)
+- Authentication: JWT, Session Security, RBAC
+
+### Databases & Storage
+- PostgreSQL, MongoDB
+- DynamoDB, S3
+- Caching & messaging patterns
+
+### Systems & Automation
+- Linux systems & shell scripting
+- Developer tooling (CLI build + automation)
+- Observability basics: logging, metrics, tracing
+
+### Frontend & UI
+- Vue.js, React & TypeScript
+- Modern component-driven UI development
+
+### Architecture & Principles
+- Distributed systems fundamentals
+- Microservices design & asynchronous workflows
+- Scalable cloud patterns & cost-conscious design
