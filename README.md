@@ -142,42 +142,6 @@ MERN app with auth + dashboards.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayuspoudel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=ayuspoudel" />
 </p>
 
-
-
-
-
-## Skills
-
-### Cloud & DevOps
-- Amazon Web Services (AWS)
-- Docker & Kubernetes (EKS)
-- IaC: Pulumi, Terraform
-- GitOps (Argo CD), CI/CD (GitHub Actions)
-- Serverless architecture (AWS Lambda, API Gateway)
-
-### Backend Engineering
-- Go (gRPC, REST, concurrency)
-- TypeScript / Node.js (Express / Fastify)
-- Event-driven systems (Apache Kafka)
-- Authentication: JWT, Session Security, RBAC
-
-### Databases & Storage
-- PostgreSQL, MongoDB
-- DynamoDB, S3
-- Caching & messaging patterns
-
-### Systems & Automation
-- Linux systems & shell scripting
-- Developer tooling (CLI build + automation)
-- Observability basics: logging, metrics, tracing
-
-### Frontend & UI
-- Vue.js, React & TypeScript
-- Modern component-driven UI development
-
-### Architecture & Principles
-- Distributed systems fundamentals
-- Microservices design & asynchronous workflows
-- Scalable cloud patterns & cost-conscious design
