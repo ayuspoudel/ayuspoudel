@@ -2,8 +2,8 @@
 <p align="center">A passionate developer focused on backend, cloud and automation</p>
 <p align="center"> Please visit my portfolio: <a href="https://ayushpoudel.com">ayushpoudel.com</a></p>
 
-<p align="center">
-  <img style="display:inline-block; margin: 0 10px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayuspoudel&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="Ayush GitHub Stats" />
+<p>
+  <img style="display:inline-block; margin: 0 8px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayuspoudel&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="Ayush GitHub Stats" />
   <img style="display:inline-block; margin: 0 10px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&langs_count=8&theme=nightowl&hide_border=true" alt="Top Languages" />
   <img style="display:inline-block; margin: 0 10px;" src="https://komarev.com/ghpvc/?username=ayuspoudel" alt="Profile Views" />
 </p>
