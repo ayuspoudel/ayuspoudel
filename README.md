@@ -140,8 +140,9 @@ MERN app with auth + dashboards.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayuspoudel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  ![Ayush Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ayuspoudel&show_icons=true&theme=nightowl&count_private=true)
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&langs_count=8&theme=nightowl)
+
   <img src="https://komarev.com/ghpvc/?username=ayuspoudel" />
 </p>
 
