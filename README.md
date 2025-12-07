@@ -7,7 +7,7 @@
   <img style="display:inline-block; margin: 0 10px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayuspoudel&layout=compact&langs_count=8&theme=nightowl&hide_border=true" alt="Top Languages" />
   <img style="display:inline-block; margin: 0 10px;" src="https://komarev.com/ghpvc/?username=ayuspoudel" alt="Profile Views" />
 </p>
-
+![](https://github-contributor-stats.vercel.app/api?username=ayuspoudel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Projects & Work
 
